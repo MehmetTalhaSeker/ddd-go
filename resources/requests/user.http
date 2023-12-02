@@ -1,0 +1,9 @@
+### Create Post
+POST localhost:8080/users
+Content-Type: application/json
+
+{
+  "email": "memo",
+  "username": "m",
+  "password": "p"
+}

@@ -1,0 +1,1 @@
+NOTE: DDD is a new concept to me. Please correct me if you see any mistakes.
